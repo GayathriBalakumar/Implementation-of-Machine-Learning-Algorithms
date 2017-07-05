@@ -1,0 +1,5 @@
+Implementation of Kmeans clustering algorithm
+
+The main class KmeansAlgo.java takes the input arguments as <no_of_clusters> <input_dataset_path> <output_file_path>
+eg: 5 kmeans_ipdataset.csv C:\Users\Gayathri\Desktop\kmeansout.txt
+Clustered output data and SSE are written into the specified output file.
