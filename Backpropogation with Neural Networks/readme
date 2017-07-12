@@ -1,0 +1,10 @@
+Generic implementation of backpropogation algorithm in Java
+
+Idea of neural networks with multiple hidden layers with multiple nodes is implemented.
+Implemenation involves two parts
+
+Data Preprocseesing
+Back Propogation algorithm
+
+In Preprocessing numerical fields are normalised with its standard deviation and texual fields are converted into numerical values. 
+Back propogation is done either untill the error tolerance is met or is stopped after a constant number of times.
