@@ -1,0 +1,6 @@
+20 news group classification using Naive Bayes Algorithm implemented in Java
+
+PreProcessing includes removal of stop words, punctuations and special characters from the data set.
+Takes training dataset path and testing dataset path as input arguments.
+Output displayed is interms of Accuracy of the classificaction.
+The more diverse the datasets, the best are the results.
